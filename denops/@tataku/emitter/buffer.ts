@@ -1,7 +1,7 @@
 import type { Denops } from "jsr:@denops/std@7.4.0";
 import * as fn from "jsr:@denops/std@7.4.0/function";
 import { assert, is } from "jsr:@core/unknownutil@4.3.0";
-import type { EmitterFactory } from "jsr:@omochice/tataku-vim@1.1.0";
+import type { EmitterFactory } from "jsr:@omochice/tataku-vim@1.2.1";
 
 const isOption = is.ObjectOf({
   bufname: is.String,
