@@ -1,5 +1,5 @@
 {
-  description = "An emitter module for tataku.vim that emit chunks to specified buffer.";
+  description = "An emitter module for tataku.vim that emits chunks to specified buffer.";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
